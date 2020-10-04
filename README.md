@@ -1,5 +1,5 @@
-﻿# Translator Bot
-This bot automatically translates between English and French and vice-versa. It was developed by [Bradley Wells](https://wellsb.com/csharp/) to demonstrate how to create a bot using C# and the Microsoft Bot Framework. It uses machine-learning translation provided by Azure Cognitive Services Translator API.
+# Translator Bot
+This bot automatically translates text between English and French and vice-versa. It was developed by [Bradley Wells](https://wellsb.com/csharp/) to demonstrate how to create a bot using C# and the Microsoft Bot Framework. It uses machine-learning translation provided by Azure Cognitive Services Translator API.
 
 ![](https://wellsb.com/csharp/wp-content/uploads/sites/2/2020/10/bot-translation-result-min.png)
 
